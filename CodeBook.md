@@ -1,7 +1,9 @@
 Code book for tidydata.txt
 ===
 ___
-The data variables listed below was produced through the following steps:
+The names of the 2 ID variables and 66 data variables in tidydata.txt is listed below. 
+
+The tidydata.txt file was produced using the following steps:
 
 1. The training and the test sets was merged to create one data set.
 2. The measurements on the mean and standard deviation for each measurement was extracted. 
@@ -14,13 +16,13 @@ ___
 The ID's
 ___
 
-*subject*
+*subject*  
 The id of the test subjects (integer).
 Values:
 
 		1..32
 
-*activity*
+*activity*  
 The type of activity (string).
 Values:
 
@@ -34,69 +36,69 @@ Values:
 ___
 The variables (all numeric)
 ___
-*tbodyaccmeanx
-tbodyaccmeany
-tbodyaccmeanz
-tbodyaccstdx
-tbodyaccstdy
-tbodyaccstdz
-tgravityaccmeanx
-tgravityaccmeany
-tgravityaccmeanz
-tgravityaccstdx
-tgravityaccstdy
-tgravityaccstdz
-tbodyaccjerkmeanx
-tbodyaccjerkmeany
-tbodyaccjerkmeanz
-tbodyaccjerkstdx
-tbodyaccjerkstdy
-tbodyaccjerkstdz
-tbodygyromeanx
-tbodygyromeany
-tbodygyromeanz
-tbodygyrostdx
-tbodygyrostdy
-tbodygyrostdz
-tbodygyrojerkmeanx
-tbodygyrojerkmeany
-tbodygyrojerkmeanz
-tbodygyrojerkstdx
-tbodygyrojerkstdy
-tbodygyrojerkstdz
-tbodyaccmagmean
-tbodyaccmagstd
-tgravityaccmagmean
-tgravityaccmagstd
-tbodyaccjerkmagmean
-tbodyaccjerkmagstd
-tbodygyromagmean
-tbodygyromagstd
-tbodygyrojerkmagmean
-tbodygyrojerkmagstd
-fbodyaccmeanx
-fbodyaccmeany
-fbodyaccmeanz
-fbodyaccstdx
-fbodyaccstdy
-fbodyaccstdz
-fbodyaccjerkmeanx
-fbodyaccjerkmeany
-fbodyaccjerkmeanz
-fbodyaccjerkstdx
-fbodyaccjerkstdy
-fbodyaccjerkstdz
-fbodygyromeanx
-fbodygyromeany
-fbodygyromeanz
-fbodygyrostdx
-fbodygyrostdy
-fbodygyrostdz
-fbodyaccmagmean
-fbodyaccmagstd
-fbodybodyaccjerkmagmean
-fbodybodyaccjerkmagstd
-fbodybodygyromagmean
-fbodybodygyromagstd
-fbodybodygyrojerkmagmean
-fbodybodygyrojerkmagstd*
+*tbodyaccmeanx  
+tbodyaccmeany  
+tbodyaccmeanz  
+tbodyaccstdx  
+tbodyaccstdy  
+tbodyaccstdz  
+tgravityaccmeanx  
+tgravityaccmeany  
+tgravityaccmeanz  
+tgravityaccstdx  
+tgravityaccstdy  
+tgravityaccstdz  
+tbodyaccjerkmeanx  
+tbodyaccjerkmeany  
+tbodyaccjerkmeanz  
+tbodyaccjerkstdx  
+tbodyaccjerkstdy  
+tbodyaccjerkstdz  
+tbodygyromeanx  
+tbodygyromeany  
+tbodygyromeanz  
+tbodygyrostdx  
+tbodygyrostdy  
+tbodygyrostdz  
+tbodygyrojerkmeanx  
+tbodygyrojerkmeany  
+tbodygyrojerkmeanz  
+tbodygyrojerkstdx  
+tbodygyrojerkstdy  
+tbodygyrojerkstdz  
+tbodyaccmagmean  
+tbodyaccmagstd  
+tgravityaccmagmean  
+tgravityaccmagstd  
+tbodyaccjerkmagmean  
+tbodyaccjerkmagstd  
+tbodygyromagmean  
+tbodygyromagstd  
+tbodygyrojerkmagmean  
+tbodygyrojerkmagstd  
+fbodyaccmeanx  
+fbodyaccmeany  
+fbodyaccmeanz  
+fbodyaccstdx  
+fbodyaccstdy  
+fbodyaccstdz  
+fbodyaccjerkmeanx  
+fbodyaccjerkmeany  
+fbodyaccjerkmeanz  
+fbodyaccjerkstdx  
+fbodyaccjerkstdy  
+fbodyaccjerkstdz  
+fbodygyromeanx  
+fbodygyromeany  
+fbodygyromeanz  
+fbodygyrostdx  
+fbodygyrostdy  
+fbodygyrostdz  
+fbodyaccmagmean  
+fbodyaccmagstd  
+fbodybodyaccjerkmagmean  
+fbodybodyaccjerkmagstd  
+fbodybodygyromagmean  
+fbodybodygyromagstd  
+fbodybodygyrojerkmagmean  
+fbodybodygyrojerkmagstd*  
