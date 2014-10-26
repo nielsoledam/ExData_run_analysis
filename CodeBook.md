@@ -1,8 +1,8 @@
-Code book for tidydata.txt
+Code Book
 ===
 ___
-The names of the 2 ID variables and 66 data variables in tidydata.txt is listed below. 
-
+Info about the 2 ID variables and 66 data variables in tidydata.txt. 
+___
 The tidydata.txt file was produced using the following steps:
 
 1. The training and the test sets was merged to create one data set.
